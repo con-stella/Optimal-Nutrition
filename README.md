@@ -29,6 +29,15 @@
   - 상관분석 및 선형 회귀 분석 수행 및 해석
   - 데이터 기반 의사결정 지원
 
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://third-zydeco-9b0.notion.site/8f24966a16d244fba453b361311fa088" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/사용%20코드%20정리-gray?style=for-the-badge" alt="Details Button">
+  </a>
+  <a href="https://third-zydeco-9b0.notion.site/8f24966a16d244fba453b361311fa088" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=notion&logoColor=white" alt="notion Button">
+  </a>
+</div>
+
 --- 
 
 ## 📄 프로젝트 문서
